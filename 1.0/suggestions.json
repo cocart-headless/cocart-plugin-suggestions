@@ -1,22 +1,4 @@
 {
-    "cocart-acf": {
-        "name": "Advanced Custom Fields",
-        "slug": "acf",
-        "search_terms": "advanced, acf, fields, custom fields, meta, repeater",
-        "short_description": "Returns all custom meta data saved for all products using Advanced Custom Fields.",
-        "logo": "https://suggestions.cocartapi.com/images/cocart.png",
-        "requirement": false,
-        "requires": "5.2",
-        "tested": "5.6",
-        "requires_php": "7.2",
-        "rating": 0,
-        "num_ratings": 0,
-        "active_installs": 0,
-        "last_updated": "",
-        "purchase": "https://cocart.xyz/pro/",
-        "learn_more": "https://cocart.xyz/add-ons/advanced-custom-fields/",
-        "third_party": false
-    },
     "woocommerce-name-your-price": {
         "name": "WooCommerce Name Your Price",
         "slug": "woocommerce-name-your-price",
