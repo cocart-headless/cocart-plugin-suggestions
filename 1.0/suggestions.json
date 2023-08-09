@@ -297,5 +297,24 @@
         "learn_more": "https://wordpress.org/plugins/contact-form-7/",
         "third_party": true,
         "wporg": true
+    },
+    "advanced-custom-fields": {
+        "name": "Advanced Custom Fields (ACF)",
+        "slug": "advanced-custom-fields",
+        "author": "wpengine",
+        "search_terms": "acf, fields, custom fields, meta, repeater",
+        "short_description": "Advanced Custom Fields (ACF) helps you easily customize WordPress with powerful, professional and intuitive fields. Proudly powering over 2 million websites, Advanced Custom Fields is the plugin WordPress developers love.",
+        "logo": "https://suggestions.cocartapi.com/images/advanced-custom-fields.png",
+        "requirement": false,
+        "requires": "4.7",
+        "tested": "6.3",
+        "requires_php": "5.6",
+        "rating": 96,
+        "num_ratings": 1189,
+        "active_installs": 5000000,
+        "last_updated": "",
+        "learn_more": "https://www.advancedcustomfields.com/",
+        "third_party": true,
+        "wporg": true
     }
 }
